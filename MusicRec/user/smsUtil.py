@@ -11,8 +11,8 @@ from django.views.decorators.csrf import csrf_exempt
 from user.models import User
 from user.views import writeBrowse, getLocalTime
 
-ACCESS_KEY_ID = "LTAI4Fz1fzYDUTi8kbTXsze4"
-ACCESS_KEY_SECRET = "6CKrTVHcuqZ4PRNX5fdVZs9OFhe27V"
+ACCESS_KEY_ID = ""
+ACCESS_KEY_SECRET = ""
 
 # 注意：不要更改
 REGION = "cn-hangzhou"
